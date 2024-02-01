@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MecanEx](https://github.com/robertoHR96/MecanEx)
 
-- 🌱 I’m currently learning **Information Technology Engineering**
+- 🌱 I’m currently learning **I am passionate about software development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/robertoHR96](https://github.com/robertoHR96)
 
