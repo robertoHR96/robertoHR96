@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">Soy un apasionado del desarrollo de software</h3>
 
-- 🔭 I’m currently working on [MecanEx](https://github.com/robertoHR96/MecanEx)
+- 🔭 I’m currently working on [P1MDAy](https://github.com/robertoHR96/P1MDAy)
 
 - 🌱 I’m currently learning **I am passionate about software development**
 
